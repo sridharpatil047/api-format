@@ -1,19 +1,7 @@
 ### Fetch all products
 
-| <span style="color:green"> GET </span> | /endpoint/:id |
-|----------------------------------------|---------------|
-
-| <span style="color:yellow"> POST </span> | /endpoint/:id |
-|------------------------------------------|---------------|
-
-| <span style="color:lightblue"> PUT </span> | /endpoint/:id |
-|--------------------------------------------|---------------|
-
-| <span style="color:gray"> PATCH </span>    | /endpoint/:id |
-|--------------------------------------------|---------------|
-
-| <span style="color:orange"> DELETE </span> | /endpoint/:id |
-|--------------------------------------------|---------------|
+| GET  | /endpoint/:id |
+|------|---------------|
 
 *description goes here*
 - Roles : 
